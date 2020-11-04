@@ -1,0 +1,6 @@
+# MacOS
+.DS_Store
+
+# Vim
+Session.vim
+*.swp
