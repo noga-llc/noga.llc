@@ -58,3 +58,21 @@ section {
   padding: 0 30px;
   max-width: 700px;
 }
+
+@media screen and (max-width: 600px) {
+  #introduction {
+    height: 180px;
+  }
+  #company-name {
+    margin: 20px 0 0 0;
+    line-height: normal;
+    height: auto;
+    font-size: 6em;
+  }
+  .top-summary {
+    font-size: 0.9em;
+  }
+  section {
+    padding-bottom: 60px;
+  }
+}
