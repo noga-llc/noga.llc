@@ -1,0 +1,82 @@
+.navbar-brand {
+  font-family: Impact,sans-serif;
+}
+.logo {
+  margin: 0 2px 0 8px;
+}
+#introduction {
+  background-color: #7ce7ca;
+  border-top: 1px solid #59ba9b;
+  border-bottom: 1px solid #59ba9b;
+  height: 500px;
+}
+#company-name {
+  font-size: 16em;
+  font-family: Impact,sans-serif;
+  text-align: center;
+  margin: 80px auto 0;
+  line-height: 300px;
+  height: 300px;
+}
+.top-summary {
+  text-align: center;
+}
+section {
+  padding-bottom: 120px;
+  border-bottom: 1px solid #cccccc;
+}
+#services h1,
+#philosophy h1,
+#company h1 {
+  font-size: 3em;
+  text-align: center;
+  margin: 80px 0 40px;
+}
+#services h2 {
+  font-size: 1.4em;
+  text-align: center;
+}
+#services .service-image-box {
+  text-align: center;
+  margin-top: 16px;
+}
+#services .service-image {
+  height: 60px;
+  margin-right: 20px;
+}
+#services .service-description {
+  margin-top: 18px;
+  padding: 0 30px;
+}
+#philosophy .philosophy-description {
+  margin: 18px auto 0;
+  padding: 0 30px;
+  max-width: 600px;
+}
+#company {
+  border: none;
+}
+#company .company-description {
+  margin: 18px auto 0;
+  padding: 0 30px;
+  max-width: 700px;
+}
+footer {
+  background-color: #00001a;
+  border-top: 1px solid #59ba9b;
+  border-bottom: 1px solid #59ba9b;
+  color: #999999;
+}
+.footer-menu ul {
+  margin: 12px auto;
+  width: 600px;
+  text-align: center;
+}
+.footer-menu li {
+  float: left;
+  list-style: none;
+  margin-right: 20px;
+}
+#copyright {
+  text-align: center;
+}
