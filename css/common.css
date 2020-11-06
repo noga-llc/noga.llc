@@ -1,0 +1,33 @@
+nav h1 {
+  margin-bottom: 0;
+}
+.navbar-brand {
+  font-family: Impact,sans-serif;
+}
+.logo {
+  margin: 0 2px 0px 8px;
+  width: 24px;
+  height: 24px;
+}
+footer {
+  background-color: #00001a;
+  border-top: 1px solid #59ba9b;
+  border-bottom: 1px solid #59ba9b;
+  color: #999999;
+}
+footer a {
+  color: #999999;
+}
+.footer-menu ul {
+  margin: 12px auto;
+  max-width: 700px;
+  text-align: center;
+}
+.footer-menu li {
+  float: left;
+  list-style: none;
+  margin-right: 20px;
+}
+#copyright {
+  text-align: center;
+}

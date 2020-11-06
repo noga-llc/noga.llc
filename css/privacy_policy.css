@@ -1,0 +1,10 @@
+body > header {
+  border-bottom: 1px solid #cccccc;
+}
+section {
+  max-width: 800px;
+  margin: 60px auto;
+}
+section h1 {
+  text-align: center;
+}
